@@ -1,0 +1,2 @@
+- 👋 como vai , sou  @Joseleandro7i, tenho 21 anos , sou brasileiro e tenho interesse em um dia mim torna um grande desenvolvedor
+- 👀 tenho como foco inicial desenvolvimento web, mas tenho interese,  tambem em um dia trabalhar com desenvolvimento mobile , jogos e  inteligência artificial
