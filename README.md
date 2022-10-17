@@ -2,6 +2,9 @@
              
 #### Meu nome é José Leandro Do Nascimento 
 
+#### Neste momento , estou focado em mim tornar um desenvolverdor Font-end, mas pretendo no futuro ou em alguns meses, mim tornar um desenvolvedor Full-strack, seguir para a área de desenvolvimento de  jogos, moblie e interligencia artificial , travez , por que mim dispertar uma curiosidade, uma vontade e um sentimento de alergia quando penso no meu futuro, tralvez demorei um pouco mais um dia estarei em um futuro onde tenha realizado minha curiosidade, vontade e meu sentimento de alergia.
+
+
 #### Tenho conhecimentos e programo em :
 
 ![java (2)](https://user-images.githubusercontent.com/104599482/196239099-e3f7c0ed-6c12-4afd-89a0-c5ace2904a21.png)           Java
