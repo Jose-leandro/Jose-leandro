@@ -1,24 +1,25 @@
-             ### Como vai o seu dia, espero que esteja tendo um belo dia 👋
+                                    ### Como vai o seu dia, espero que esteja tendo um belo dia 👋
              
-#### Mim chamo José Leandro Do Nascimento 
+#### Meu nome é José Leandro Do Nascimento 
 
-<div align="center">
-  <a href="https://github.com/Joseleandro7i">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joseleandro7i&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseleandro7i&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-
-#### Tenho conhecimentos e programo em -
+#### Tenho conhecimentos e programo em :
 
 ![java (2)](https://user-images.githubusercontent.com/104599482/196239099-e3f7c0ed-6c12-4afd-89a0-c5ace2904a21.png)           Java
 
 ![javascript](https://user-images.githubusercontent.com/104599482/196240587-058edb24-7146-425c-8e05-8034abe5b72a.png)          Javascript
+
+
+#### Alguns dados do meu GitHub :
+
+<div align="center">
+  <a href="https://github.com/Joseleandro7i">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Joseleandro7i&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+       <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseleandro7i&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
  
 
-#### Ser você tiver enteresse de ser comunicar comingo , possou um perfil no - <a href="https://www.linkedin.com/in/jos%C3%A9-leandro-do-nascimento-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
+#### Ser você tiver enteresse de ser comunicar comingo , possou um perfil no :
+<a href="https://www.linkedin.com/in/jos%C3%A9-leandro-do-nascimento-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 
