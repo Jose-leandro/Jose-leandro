@@ -2,6 +2,8 @@
              
 #### Meu nome é José Leandro Do Nascimento 
 
+  ![Adobe_Express_20221018_1301500_1_1_AdobeExpress](https://user-images.githubusercontent.com/104599482/196487137-be4fd995-2b49-405d-8a3c-63f213e284cf.gif)
+
 #### Neste momento , estou focado em mim tornar um desenvolverdor Font-end, mas pretendo no futuro ou em alguns meses, mim tornar um desenvolvedor Full-strack, seguir para a área de desenvolvimento de  jogos, moblie e interligencia artificial , travez , por que mim dispertar uma curiosidade, uma vontade e um sentimento de alergia quando penso no meu futuro, tralvez demorei um pouco mais um dia estarei em um futuro onde tenha realizado minha curiosidade, vontade e meu sentimento de alergia.
 
 
