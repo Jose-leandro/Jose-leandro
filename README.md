@@ -1,4 +1,4 @@
-                                    ### Como vai o seu dia, espero que esteja tendo um belo dia 👋
+                                    ### Como está indo o seu dia, espero que esteja tendo um belo e bem produtivo dia 👋
              
 #### Meu nome é José Leandro Do Nascimento 
 
@@ -9,12 +9,18 @@
 
 
 #### Tenho conhecimentos e programo em :
+  
 
-![java (2)](https://user-images.githubusercontent.com/104599482/196239099-e3f7c0ed-6c12-4afd-89a0-c5ace2904a21.png)           Java
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![javascript](https://user-images.githubusercontent.com/104599482/196240587-058edb24-7146-425c-8e05-8034abe5b72a.png)          Javascript
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+   
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    
 
-
+   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    
+    
 #### Alguns dados do meu GitHub :
 
 <div align="center">
@@ -26,12 +32,3 @@
 
 #### Ser você tiver enteresse de ser comunicar comingo , possou um perfil no :
 <a href="https://www.linkedin.com/in/jos%C3%A9-leandro-do-nascimento-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-
-#### Todas imagem e icone são de banco de imagens ou são de repositorios de desenvolverdores :
-
-<a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Flat Icons - Flaticon</a>
-
-
-<a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by Flat Icons - Flaticon</a>
