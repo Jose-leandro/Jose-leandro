@@ -1,4 +1,4 @@
-## <p  text-align="center" >Como está indo o seu dia, espero que esteja tendo um belo e bem produtivo dia 👋 </p>
+## <p  align="center" >Olá, tudo bem?👋</p>
 
 <div align="center">
   
@@ -6,14 +6,16 @@
 
 </div>
 
-#### Neste momento , estou focado em mim tornar um desenvolverdor Font-end, mas pretendo no futuro ou em alguns meses, mim tornar um desenvolvedor Full-strack, seguir para a área de desenvolvimento de  jogos, moblie e interligencia artificial , travez , por que mim dispertar uma curiosidade, uma vontade e um sentimento de alergia quando penso no meu futuro, tralvez demorei um pouco mais um dia estarei em um futuro onde tenha realizado minha curiosidade, vontade e meu sentimento de alergia.
+Neste momento , estou focado em mim tornar um desenvolverdor Font-end, mas pretendo no futuro ou em alguns meses, mim tornar um desenvolvedor Full-strack, seguir para a área de desenvolvimento de  jogos, moblie e interligencia artificial , travez , por que mim dispertar uma curiosidade, uma vontade e um sentimento de alergia quando penso no meu futuro, tralvez demorei um pouco mais um dia estarei em um futuro onde tenha realizado minha curiosidade, vontade e meu sentimento de alergia. 
 
 
 #### Tenho conhecimentos e programo em :
-  
 
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)       ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    
+
+![java-script 1](https://user-images.githubusercontent.com/104599482/202504510-7dc2ef3f-a47b-411b-901f-ab990f7177b6.png)    ![html-5 1](https://user-images.githubusercontent.com/104599482/202506249-92c8829d-476a-4c75-9b34-62dbff12446e.png)    ![css 1 (2)](https://user-images.githubusercontent.com/104599482/202503083-a10138b6-21ec-42ab-ac49-62d39f2a0bea.png)
+
+![java 1](https://user-images.githubusercontent.com/104599482/202508957-7705f797-83ec-45a1-8264-6a4a7d7093d0.png)
+
   
 #### Alguns dados do meu GitHub :
 
@@ -22,7 +24,24 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Joseleandro7i&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
        <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseleandro7i&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
- 
+  
 
-#### Ser você tiver enteresse de ser comunicar comingo , possou um perfil no :
+ 
+ 
+*<p align="center" > "O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis" </p>*
+
+  
+### Ser você tiver enteresse de ser comunicar comingo , possou um perfil no :
 <a href="https://www.linkedin.com/in/jos%C3%A9-leandro-do-nascimento-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
+ Os icones utilizados por mim , são de propriedade da flaticon 
+  
+
+  <a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Pixel perfect - Flaticon</a>  
+  
+  <a href="https://www.flaticon.com/free-icons/css" title="css icons">Css icons created by bearicons - Flaticon</a>
+  
+  <a href="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by NajmunNahar - Flaticon</a>
+  
+  <a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Flat Icons - Flaticon</a>
