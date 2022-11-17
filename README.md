@@ -1,9 +1,10 @@
-                                    ### Como está indo o seu dia, espero que esteja tendo um belo e bem produtivo dia 👋
-             
-#### Meu nome é José Leandro Do Nascimento 
+## <p  text-align="center" >Como está indo o seu dia, espero que esteja tendo um belo e bem produtivo dia 👋 </p>
 
-![Como vai , Meu nome é José Leandro , É você está visualizando o meu GitHub, Sou um desenvolvedor web, É tenha um bom dia](https://user-images.githubusercontent.com/104599482/198881700-1db56bd5-726f-4d73-a9aa-76ce394622ea.gif)
+<div align="center">
+  
+ ![Como vai , Meu nome é José Leandro , É você está visualizando o meu GitHub, Sou um desenvolvedor web, É tenha um bom dia](https://user-images.githubusercontent.com/104599482/198881700-1db56bd5-726f-4d73-a9aa-76ce394622ea.gif) >
 
+</div>
 
 #### Neste momento , estou focado em mim tornar um desenvolverdor Font-end, mas pretendo no futuro ou em alguns meses, mim tornar um desenvolvedor Full-strack, seguir para a área de desenvolvimento de  jogos, moblie e interligencia artificial , travez , por que mim dispertar uma curiosidade, uma vontade e um sentimento de alergia quando penso no meu futuro, tralvez demorei um pouco mais um dia estarei em um futuro onde tenha realizado minha curiosidade, vontade e meu sentimento de alergia.
 
@@ -11,16 +12,9 @@
 #### Tenho conhecimentos e programo em :
   
 
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-   
-   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)       ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     
-
-   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    
-    
+  
 #### Alguns dados do meu GitHub :
 
 <div align="center">
