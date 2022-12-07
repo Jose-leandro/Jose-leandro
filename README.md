@@ -6,7 +6,7 @@
 
 </div>
 
-Neste momento , estou focado em mim tornar um desenvolverdor Font-end, mas pretendo no futuro ou em alguns meses, mim tornar um desenvolvedor Full-strack, seguir para a área de desenvolvimento de  jogos, moblie e interligencia artificial , travez , por que mim dispertar uma curiosidade, uma vontade e um sentimento de alergia quando penso no meu futuro, tralvez demorei um pouco mais um dia estarei em um futuro onde tenha realizado minha curiosidade, vontade e meu sentimento de alergia. 
+Neste momento, estou focado em mim tornar um desenvolvedor Font-end, mas pretendo no futuro ou em alguns meses, mim tornar um desenvolvedor Full-strack, seguir para a área de desenvolvimento de  jogos, moblie e interligencia artificial , travez , por que mim dispertar uma curiosidade, uma vontade e um sentimento de alergia quando penso no meu futuro, tralvez demorei um pouco mais um dia estarei em um futuro onde tenha realizado minha curiosidade, vontade e meu sentimento de alergia. 
 
 
 #### Tenho conhecimentos e programo em :
