@@ -2,13 +2,13 @@
 
 <br>
 
-**Meu nome é José leandro, sou Desenvolvedor Front-End com comprometimento e persistência suficiente para alcançar as metas que desejo, tenho experiência e conhecimento na linguagem de programação JavaScript e uma das suas principais bibliotecas React.js, o meu foco me permite focar no que é necessário para entregar o máximo possível e a minha paciência me permite continuar realizando minhas tarefas de maneira eficiente e até mesmo sob pressão, além disso conhecimento com o sistema de controle de versão denominado Git, já relacionado a Pré-processadores CSS possuo compreensão em Sass, também experiência com Css e Html.**
+Meu nome é José leandro, sou Desenvolvedor Front-End com comprometimento e persistência suficiente para alcançar as metas que desejo, tenho experiência e conhecimento na linguagem de programação JavaScript e uma das suas principais bibliotecas React.js, o meu foco me permite focar no que é necessário para entregar o máximo possível e a minha paciência me permite continuar realizando minhas tarefas de maneira eficiente e até mesmo sob pressão, além disso conhecimento com o sistema de controle de versão denominado Git, já relacionado a Pré-processadores CSS possuo compreensão em Sass, também experiência com Css e Html.
 
-**Desde pequeno sempre tiver interesse e curiosidade sobre tecnologia, por exemplo, quando recordo de assistir a seriados e filmes que abordavam sobre o assunto, surgia-se desejo de conhecer e aprender sobre tecnologia, tenho autoconfiança que fornecer bravura para enfrentar desafios e obstáculos que possam causar impedimentos para alcançar minhas metas.**
+Desde pequeno sempre tiver interesse e curiosidade sobre tecnologia, por exemplo, quando recordo de assistir a seriados e filmes que abordavam sobre o assunto, surgia-se desejo de conhecer e aprender sobre tecnologia, tenho autoconfiança que fornecer bravura para enfrentar desafios e obstáculos que possam causar impedimentos para alcançar minhas metas.
 
-**Também detenho conhecimento SQL, utilizada para manipulação de bancos de dados relacionais como, além disso, compreensão em um dos mais populares bancos de dados relacionais o MySQL, antes da conclusão da descrição das minhas Skills, quero expor mais sobre mim, nas horas vagas, gosto de mim aventurar no mundo da leitura, dos jogos, no universo dos filmes, seriados e melhora as minhas habilidades na cozinha.**
+Também detenho conhecimento SQL, utilizada para manipulação de bancos de dados relacionais como, além disso, compreensão em um dos mais populares bancos de dados relacionais o MySQL, antes da conclusão da descrição das minhas Skills, quero expor mais sobre mim, nas horas vagas, gosto de mim aventurar no mundo da leitura, dos jogos, no universo dos filmes, seriados e melhora as minhas habilidades na cozinha.
 
-**Capacidade de aprendizado contínuo o que permite mim continuar aprimorando meus conhecimentos, buscar por novos e mim manter atualizando com as principais tecnologias que estão em destaque no mercado, como atualmente estou aprimorando minhas compreenção e habilidades em React.js e JavaScript, como pretendo aprender sobre testes unitários, bem com o uso de APIs, aliás sou receptivo ao feedback, pois creio que por meio deles, ouvindos e compreendendos posso identificar meus pontos francos para melhorá-los, mas também conhecer os meus pontos fortes para admirá-los.**
+Capacidade de aprendizado contínuo o que permite mim continuar aprimorando meus conhecimentos, buscar por novos e mim manter atualizando com as principais tecnologias que estão em destaque no mercado, como atualmente estou aprimorando minhas compreenção e habilidades em React.js e JavaScript, como pretendo aprender sobre testes unitários, bem com o uso de APIs, aliás sou receptivo ao feedback, pois creio que por meio deles, ouvindos e compreendendos posso identificar meus pontos francos para melhorá-los, mas também conhecer os meus pontos fortes para admirá-los.
 
 <br>
 
@@ -40,13 +40,13 @@
 <br> 
 
 ### ***Contato***
-  **Caso queria entrar em contato, logo abaixo estão algumas maneiras:**
+  Caso queria entrar em contato, logo abaixo estão algumas maneiras:
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-leandro-do-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:joseleandrodesenvolvedorweb@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "mailto:leandrofgleandrojose@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) </a>
 
-**Estarei esperando pelo o seu contato.**
+Estarei esperando pelo o seu contato.
 
 <br>  
 
