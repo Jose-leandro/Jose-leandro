@@ -1,4 +1,4 @@
-![Apresentação - José leandro](https://github.com/Joseleandro7i/Joseleandro7i/assets/104599482/d7a5cf15-8b94-4af3-94dc-e258e442905c)
+![Apresentação - José leandro](https://github.com/Jose-leandro/Jose-leandro/assets/104599482/d7a5cf15-8b94-4af3-94dc-e258e442905c)
 
 <br>
 
@@ -17,10 +17,10 @@ Capacidade de aprendizado contínuo o que permite mim continuar aprimorando meus
 
 <div display="flex">
   
-![javascript](https://github.com/Joseleandro7i/Joseleandro7i/assets/104599482/c9720a72-c588-4d71-9241-70ff71f5c3ca)  ![react](https://github.com/Joseleandro7i/Joseleandro7i/assets/104599482/2b91f515-5d4a-4c39-a7a3-0d76b2c27c99)  <br> ![git](https://github.com/Joseleandro7i/Joseleandro7i/assets/104599482/c04867a1-8b19-4830-8c6c-839574f21db3) 
-![html](https://github.com/Joseleandro7i/Joseleandro7i/assets/104599482/1fc952e3-2e37-474d-8610-40fe983d104b)
-<br>  ![css](https://github.com/Joseleandro7i/Joseleandro7i/assets/104599482/cd8afbba-6eff-4e28-8483-d3a305dc7a5d)
-![sass](https://github.com/Joseleandro7i/Joseleandro7i/assets/104599482/5050775e-b8c4-46eb-ba68-8f94e8a06063) <br>   ![sql](https://github.com/Joseleandro7i/Joseleandro7i/assets/104599482/9398b346-10a5-4fb1-968a-a49f7d0284f5)   ![mysql](https://github.com/Joseleandro7i/Joseleandro7i/assets/104599482/268dea87-a56f-438f-9ba9-8fb9bb073738)
+![javascript](https://github.com/Jose-leandro/Jose-leandro/assets/104599482/c9720a72-c588-4d71-9241-70ff71f5c3ca)  ![react](https://github.com/Jose-leandro/Jose-leandro/assets/104599482/2b91f515-5d4a-4c39-a7a3-0d76b2c27c99)  <br> ![git](https://github.com/Jose-leandro/Jose-leandro/assets/104599482/c04867a1-8b19-4830-8c6c-839574f21db3) 
+![html](https://github.com/Jose-leandro/Jose-leandro/assets/104599482/1fc952e3-2e37-474d-8610-40fe983d104b)
+<br>  ![css](https://github.com/Jose-leandro/Jose-leandro/assets/104599482/cd8afbba-6eff-4e28-8483-d3a305dc7a5d)
+![sass](https://github.com/Jose-leandro/Jose-leandro/assets/104599482/5050775e-b8c4-46eb-ba68-8f94e8a06063) <br>   ![sql](https://github.com/Jose-leandro/Jose-leandro/assets/104599482/9398b346-10a5-4fb1-968a-a49f7d0284f5)   ![mysql](https://github.com/Jose-leandro/Jose-leandro/assets/104599482/268dea87-a56f-438f-9ba9-8fb9bb073738)
   
 </div>
 
@@ -28,8 +28,8 @@ Capacidade de aprendizado contínuo o que permite mim continuar aprimorando meus
 
 <div  align="center">
   
- <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Joseleandro7i&show_icons=true&border_radius=20px&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="200em" font-size="100px" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseleandro7i&layout=donut&langs_count=6&border_radius=20px&theme=tokyonight"/>
+ <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Jose-leandro&show_icons=true&border_radius=20px&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="200em" font-size="100px" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-leandro&layout=donut&langs_count=6&border_radius=20px&theme=tokyonight"/>
 
 </div>
 
