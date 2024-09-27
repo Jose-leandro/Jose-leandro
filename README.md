@@ -1,6 +1,6 @@
 # José Leandro - Front-End Developer 👨‍💻
 
-![Banner - José Leandro](https://github.com/Jose-leandro/Jose-leandro/assets/104599482/d7a5cf15-8b94-4af3-94dc-e258e442905c)
+![José leandro](https://github.com/user-attachments/assets/f6f304b5-2619-4bc5-8ef8-df9a7c7a72f5)
 
 ## 👋 Welcome!
 
