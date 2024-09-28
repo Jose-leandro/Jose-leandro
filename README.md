@@ -1,10 +1,20 @@
-# José Leandro - Front-End Developer 👨‍💻
+# José Leandro - Front-End Developer 👨‍💻 🚀
 
-![José leandro](https://github.com/user-attachments/assets/f6f304b5-2619-4bc5-8ef8-df9a7c7a72f5)
+![José Leandro](https://github.com/user-attachments/assets/f6f304b5-2619-4bc5-8ef8-df9a7c7a72f5)
 
 ## 👋 Welcome!
 
-I am a Front-End Developer with 💪 commitment and 🧠 persistence to achieve my goals. I specialize in **JavaScript** and **React.js**, focusing on delivering high-quality results, even under pressure. I am proficient in Git, CSS preprocessors like **Sass**, and have experience with **HTML/CSS**.
+Hi there! I'm **José Leandro**, a passionate and results-driven Front-End Developer with a knack for creating sleek, user-friendly web applications. My journey began with curiosity about how things work online, and today, I’m transforming that into real-world applications. Let's build something extraordinary together!
+
+🔍 Currently exploring the realms of **Next.js**, **TypeScript**, and **Tailwind CSS** to push the boundaries of front-end development.
+
+## 💡 About Me
+
+- 🌟 Enthusiast of web technologies and coding best practices.
+- 📚 Always learning: deep-diving into new technologies and improving my skills.
+- 🎯 Dedicated to delivering projects on time with top-notch quality.
+
+Feel free to connect or explore my work below!
 
 ## 🌱 Inspiration
 
@@ -64,21 +74,32 @@ My passion for technology started young, fueled by TV shows and movies about the
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose-leandro&theme=tokyonight" alt="GitHub Streaks" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-leandro&layout=donut&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-leandro&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jose-leandro&color=blue" alt="Profile Views">
+</p>
 </div>
 
-## 💬 Quote
+<div align="center">
+  <a href="https://github.com/Jose-leandro?tab=followers">
+    <img src="https://img.shields.io/github/followers/Jose-leandro?label=Follow%20Me&style=social" alt="Follow me on GitHub" />
+  </a>
+  <a href="https://github.com/Jose-leandro?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Jose-leandro?style=social" alt="Stars on GitHub" />
+  </a>
+</div>
 
-<blockquote style="background-color:#f0f0f0; padding:10px; border-radius:5px;">
-"O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo..." - José de Alencar
-</blockquote>
+## 💬 Favorite Quote
+<blockquote style="background-color:#f0f0f0; padding:10px; border-radius:5px;"> "Success is born from desire, determination and persistence in achieving a goal..." - José de Alencar </blockquote>
 
-## 📞 Contact Me
+  ## 📞 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-leandro-do-nascimento/)
-- [Email](mailto:joseleandrodesenvolvedorweb@gmail.com)
+I'm always open to new opportunities and collaborations. Feel free to reach out through any of the platforms below:
 
----
+- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-leandro-do-nascimento/) 🔗
+- [Email](mailto:joseleandrodesenvolvedorweb@gmail.com) 📧
+
+⭐️ **[Follow me on GitHub](https://github.com/Jose-leandro)** to stay updated with my projects and code adventures!
 
 ### 📝 License
 
