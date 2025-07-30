@@ -1,4 +1,4 @@
-# José Leandro - Front-End Developer 👨‍💻 🚀
+# 👋 Hi, I'm José Leandro — Front-End Developer 🚀
 
 ![José Leandro](https://github.com/user-attachments/assets/f6f304b5-2619-4bc5-8ef8-df9a7c7a72f5)
 
@@ -15,6 +15,16 @@ Hi there! I'm **José Leandro**, a passionate and results-driven Front-End Devel
 - 🎯 Dedicated to delivering projects on time with top-notch quality.
 
 Feel free to connect or explore my work below!
+
+## 📌 Featured Projects
+
+- 🔐 [GEDF – Personal Finance Manager](https://github.com/Jose-leandro/Gerenciador-Financeiro-Gedf): A modern budgeting web app with real-time tracking, built with Next.js and Firebase.
+- 🌐 [Portfolio Site](https://github.com/Jose-leandro/portfolio): My personal portfolio with animated transitions, responsive design, and project showcase.
+
+## 🏆 Achievements
+
+- 🥇 Completed Rocketseat Ignite Program – React/Next.js track
+- 📚 100+ hours of study on advanced JavaScript and performance optimization
 
 ## 🌱 Inspiration
 
